@@ -173,3 +173,4 @@ metadata:
   doc_source_url_repo: https://github.com/Azure/azure-cli/blob/dev/
   ms.date: 07/19/2022
   description: Tag Management on a resource.
+  devlang: azstatic-cli
